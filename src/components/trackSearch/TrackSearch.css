@@ -1,0 +1,21 @@
+.track_{
+    display: flex;
+}
+.filter-inp{
+    height: 90%;
+    border-radius: 5px;
+    border: none;
+    margin-left: 3px;
+
+}
+
+.glass-icon{
+    font-size: 20px;
+
+}
+
+.glass-btn{
+    border-radius: 2px;
+    font-size: 20px;
+    cursor: pointer;
+}
